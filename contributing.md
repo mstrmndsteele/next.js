@@ -5,6 +5,10 @@
 - Read about our [Commitment to Open Source](https://vercel.com/oss).
 - Before jumping into a PR be sure to search [existing PRs](https://github.com/vercel/next.js/pulls) or [issues](https://github.com/vercel/next.js/issues) for an open or closed item that relates to your submission.
 
+## For AI Assistants
+
+If you're an AI assistant helping with Next.js development, see [CLAUDE.md](./CLAUDE.md) for a comprehensive guide to the codebase structure, development workflows, and contributing conventions.
+
 ## Repository
 
 - [Triaging](./contributing/repository/triaging.md)
